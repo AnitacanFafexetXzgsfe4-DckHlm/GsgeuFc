@@ -1,0 +1,145 @@
+[
+    {
+        "iconUrl": "https://gitlab.com/zinanprayogaaditama/HvyxtzxtovuvuSxvyFd/-/raw/NabahjwbadKHN/JwhwggwiwgDN/HagafaZX/B.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream",
+        "fileSize": 32153,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "CodeSannz"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime"
+        ],
+        "version": 48,
+        "internalName": "AnixverseProvider",
+        "description": "Anime and Movies",
+        "url": "https://raw.githubusercontent.com/GilangAditama/GsgeuFc/main/AnixverseProvider.cs3",
+        "name": "AnixverseProvider"
+     },
+    {
+        "iconUrl": "https://gitlab.com/zinanprayogaaditama/HvyxtzxtovuvuSxvyFd/-/raw/NabahjwbadKHN/JwhwggwiwgDN/HagafaZX/balad.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream",
+        "fileSize": 20397,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "CodeSannz"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 33,
+        "internalName": "Baladfilm",
+        "description": "Include: Zonafilm",
+        "url": "https://raw.githubusercontent.com/GilangAditama/GsgeuFc/main/Baladfilm.cs3",
+        "name": "Baladfilm"
+    },
+    {           
+        "iconUrl": "https://gitlab.com/zinanprayogaaditama/HvyxtzxtovuvuSxvyFd/-/raw/NabahjwbadKHN/JwhwggwiwgDN/HagafaZX/D1.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream",
+        "fileSize": 14335,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "CodeSannz"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime"
+        ],
+        "version": 2,
+        "internalName": "Donghuafilm",
+        "description": "Anime and Movies",
+        "url": "https://raw.githubusercontent.com/GilangAditama/GsgeuFc/main/Donghuafilm.cs3",
+        "name": "Donghuafilm"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=nimegami.id&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream",
+        "fileSize": 22306,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "CodeSannz"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 12,
+        "internalName": "Nimegami",
+        "url": "https://raw.githubusercontent.com/GilangAditama/GsgeuFc/main/NimegamiProvider.cs3",
+        "name": "Nimegami"
+    },
+    {
+        "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
+        "fileSize": 496222,
+        "status": 1,
+        "authors": [
+            "megix"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "AsianDrama",
+            "Anime",
+            "Torrent"
+        ],
+        "version": 315,
+        "internalName": "CineStream",
+        "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
+        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
+        "name": "CineStream"
+    },
+    {        
+        "iconUrl": "https://midasxxi.com/wp-content/uploads/2024/01/cropped-favicon.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream",
+        "fileSize": 21789,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "CodeSannz"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "Midasmovie",
+        "url": "https://raw.githubusercontent.com/GilangAditama/GsgeuFc/main/Midasmovie.cs3",
+        "name": "Midasmovie"
+    },
+    {        
+        "iconUrl": "https://nontonfilm.gratis/wp-content/uploads/2024/12/gratis-1.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream",
+        "fileSize": 26685,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "CodeSannz"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "Nontonfilm",
+        "url": "https://raw.githubusercontent.com/GilangAditama/GsgeuFc/main/Nontonfilm.cs3",
+        "name": "Nontonfilm"
+    }
+]
