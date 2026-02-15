@@ -16,7 +16,7 @@
         "version": 48,
         "internalName": "AnixverseProvider",
         "description": "Anime and Movies",
-        "url": "https://raw.githubusercontent.com/GilangAditama/GsgeuFc/main/AnixverseProvider.cs3",
+        "url": "https://raw.githubusercontent.com/AnitacanFafexetXzgsfe4-DckHlm/GsgeuFc/main/AnixverseProvider.cs3",
         "name": "AnixverseProvider"
      },
     {
@@ -37,7 +37,7 @@
         "version": 33,
         "internalName": "Baladfilm",
         "description": "Include: Zonafilm",
-        "url": "https://raw.githubusercontent.com/GilangAditama/GsgeuFc/main/Baladfilm.cs3",
+        "url": "https://raw.githubusercontent.com/AnitacanFafexetXzgsfe4-DckHlm/GsgeuFc/main/Baladfilm.cs3",
         "name": "Baladfilm"
     },
     {           
@@ -57,7 +57,7 @@
         "version": 2,
         "internalName": "Donghuafilm",
         "description": "Anime and Movies",
-        "url": "https://raw.githubusercontent.com/GilangAditama/GsgeuFc/main/Donghuafilm.cs3",
+        "url": "https://raw.githubusercontent.com/AnitacanFafexetXzgsfe4-DckHlm/GsgeuFc/main/Donghuafilm.cs3",
         "name": "Donghuafilm"
     },
     {
@@ -77,7 +77,7 @@
         ],
         "version": 12,
         "internalName": "Nimegami",
-        "url": "https://raw.githubusercontent.com/GilangAditama/GsgeuFc/main/NimegamiProvider.cs3",
+        "url": "https://raw.githubusercontent.com/AnitacanFafexetXzgsfe4-DckHlm/GsgeuFc/main/NimegamiProvider.cs3",
         "name": "Nimegami"
     },
     {
@@ -119,7 +119,7 @@
         ],
         "version": 1,
         "internalName": "Midasmovie",
-        "url": "https://raw.githubusercontent.com/GilangAditama/GsgeuFc/main/Midasmovie.cs3",
+        "url": "https://raw.githubusercontent.com/AnitacanFafexetXzgsfe4-DckHlm/GsgeuFc/main/Midasmovie.cs3",
         "name": "Midasmovie"
     },
     {        
@@ -139,7 +139,7 @@
         ],
         "version": 1,
         "internalName": "Nontonfilm",
-        "url": "https://raw.githubusercontent.com/GilangAditama/GsgeuFc/main/Nontonfilm.cs3",
+        "url": "https://raw.githubusercontent.com/AnitacanFafexetXzgsfe4-DckHlm/GsgeuFc/main/Nontonfilm.cs3",
         "name": "Nontonfilm"
     }
 ]
